@@ -56,7 +56,7 @@ Toda transação pode ser estornada deve gerar uma código alfanumérico.
 Apenas as Contas Ativas podem receber Cargas ou Tranferências.
 
 
-####Situação da Conta
+#### Situação da Conta
 
 Toda Conta pode estar ativa, bloqueada ou cancelada;
 
